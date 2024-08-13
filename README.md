@@ -1,1 +1,1 @@
-# phase-2-bot-battlr
+# phase-2-code-challange-bot-battlr
